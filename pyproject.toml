@@ -11,8 +11,7 @@ classifiers = ["License :: OSI Approved :: MIT License"]
 requires-python = ">=3.5"
 description-file="README.md"
 requires = [
-    "numpy",
-    "torch>=1.0.0"
+    "numpy"
 ]
 
 [tool.flit.metadata.requires-extra]
